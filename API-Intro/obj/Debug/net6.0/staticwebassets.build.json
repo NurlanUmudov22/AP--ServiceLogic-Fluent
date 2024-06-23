@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "RDNvnRw6rEmpx14ncUdjhG1t+MnMK+mXBSppy+bR0OA=",
+  "Source": "API-Intro",
+  "BasePath": "_content/API-Intro",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API-Intro\\wwwroot",
+      "Source": "API-Intro",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Рабочий стол\\API\\API-AutoMapper-Fluent\\API-Intro\\wwwroot\\",
+      "BasePath": "_content/API-Intro",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ASUS\\OneDrive\\Рабочий стол\\API\\API-AutoMapper-Fluent\\API-Intro\\wwwroot\\images\\020dc547-878f-4d5e-912f-392d4ce6f9f2-team-3.jpg",
+      "SourceId": "API-Intro",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\OneDrive\\Рабочий стол\\API\\API-AutoMapper-Fluent\\API-Intro\\wwwroot\\",
+      "BasePath": "_content/API-Intro",
+      "RelativePath": "images/020dc547-878f-4d5e-912f-392d4ce6f9f2-team-3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\020dc547-878f-4d5e-912f-392d4ce6f9f2-team-3.jpg"
+    }
+  ]
+}
